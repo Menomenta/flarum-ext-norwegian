@@ -1,5 +1,5 @@
 {
-    "name": "flarum/lang-norwegian",
+    "name": "norwegian-for-flarum",
     "type": "flarum-extension",
     "description": "Norwegian language pack.",
     "keywords": ["locale"],
