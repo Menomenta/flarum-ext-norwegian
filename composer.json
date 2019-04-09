@@ -1,5 +1,5 @@
 {
-    "name": "norwegian-for-flarum",
+    "name": "menomenta/flarum-ext-norwegian",
     "type": "flarum-extension",
     "description": "Norwegian language pack.",
     "keywords": ["locale"],
