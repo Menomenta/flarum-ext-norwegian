@@ -1,7 +1,7 @@
 {
-    "name": "flarum/lang-english",
+    "name": "flarum/lang-norwegian",
     "type": "flarum-extension",
-    "description": "English language pack.",
+    "description": "Norwegian language pack.",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
@@ -12,7 +12,7 @@
             "dev-master": "0.1.x-dev"
         },
         "flarum-extension": {
-            "title": "English",
+            "title": "Norwegian",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",
@@ -21,8 +21,8 @@
             }
         },
         "flarum-locale": {
-            "code": "en",
-            "title": "English"
+            "code": "no",
+            "title": "Norwegian"
         }
     }
 }
