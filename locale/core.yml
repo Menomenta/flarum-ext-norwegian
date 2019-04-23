@@ -462,7 +462,7 @@ core:
       403_message: Du har ikke tillatelse til å åpne denne siden.
       404_message: Fant ikke siden du etterspurte.
       404_return_link: "Returner til {forum}"
-      500_message: Noe gikk galt under lasting av siden (Server Error: 500).
+      500_message: Noe gikk galt under lasting av siden (Server Error 500).
       503_message: "{forum} er for øyeblikket under vedlikehold, men er snart tilbake. Takk for tålmodigheten din!"
 
     # Translations in this namespace are displayed by the basic HTML discussion index.
